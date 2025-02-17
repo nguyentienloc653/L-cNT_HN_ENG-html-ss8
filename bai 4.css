@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    display: inline-block;
+    border-bottom: 3px solid red;
+    padding-bottom: 7px;
+}
+.pic1{
+    color:crimson;
+    font-size: 30px;
+    margin-left: 18px;
+    border:1px solid grey;
+    width:fit-content;
+    height:fit-content;
+    position: absolute;
+    padding: 30px;  
+    transform: rotate(45deg);
+    
+}
+.pic1 .diamond{
+    position: absolute;
+    top:10px;
+    right:15px;
+    transform: rotate(-45deg);
+}
+.table{
+    position:relative;
+}
+.text{
+    font-size: smaller;
+    color:grey;
+}
+.text2{
+    position: absolute;
+    left: 120px;
+    top: 35px;
+}
+text{
+    font-size: smaller;
+    color:grey;
+}
+.text2{
+    position: absolute;
+    left: 120px;
+    top: 35px;
+}
+.text4{
+    font-size: smaller;
+    color:grey;
+}
+.text3{
+    position: absolute;
+    left: 525px;
+    top: 35px;
+}
+.pic2{
+    color:crimson;
+    font-size: 30px;
+    margin-left: 18px;
+    border:1px solid grey;
+    width:fit-content;
+    height:fit-content;
+    position: absolute;
+    left: 400px;
+    padding: 30px;  
+    transform: rotate(45deg);
+    
+}
+.pic2 .diamond{
+    position: absolute;
+    top:10px;
+    right:15px;
+    transform: rotate(-45deg);
+}
+.pic3{
+    color:crimson;
+    font-size: 30px;
+    margin-left: 18px;
+    border:1px solid grey;
+    width:fit-content;
+    height:fit-content;
+    position: absolute;
+    top: 200px;
+    padding: 30px;  
+    transform: rotate(45deg);
+    
+}
+.pic3 .diamond{
+    position: absolute;
+    top:10px;
+    right:15px;
+    transform: rotate(-45deg);
+}
+.pic4{
+    color:crimson;
+    font-size: 30px;
+    margin-left: 18px;
+    border:1px solid grey;
+    width:fit-content;
+    height:fit-content;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    padding: 30px;  
+    transform: rotate(45deg);
+    
+}
+.pic4 .diamond{
+    position: absolute;
+    top:10px;
+    right:15px;
+    transform: rotate(-45deg);
+}
+.text6{
+    font-size: smaller;
+    color:grey;
+}
+.text5{
+    position: absolute;
+    left: 525px;
+    top: 200px;
+}
+.text8{
+    font-size: smaller;
+    color:grey;
+}
+.text7{
+    position: absolute;
+    left: 125px;
+    top: 200px;
+}
