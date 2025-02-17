@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    display: inline-block;
+    border-bottom: 3px solid red;
+    padding-bottom: 7px;
+}
+
+table{
+    text-align: center;
+    border: 5px solid gray;
+    border-collapse: collapse;
+    border-top:none ;
+    border-bottom: none;
+    border-right:  10px ;
+}
+
+p{
+    padding: 20px;
+    color: gray;
+    font-size: small;
+}
+
+h3{
+    text-align: left;
+    padding: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #d9534f; 
+    border: 2px solid #d9534f; 
+    background-color: transparent
+}
+
+.nut{
+    text-align: left;
+}
+
+
